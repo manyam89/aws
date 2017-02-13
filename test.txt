@@ -1,0 +1,7 @@
+df
+df -h
+df --o
+df -h ###Human Format
+df-m ###Show output size in one-kilobyte block
+df-k ###show output size in one-kilobyte blocks(default)
+
